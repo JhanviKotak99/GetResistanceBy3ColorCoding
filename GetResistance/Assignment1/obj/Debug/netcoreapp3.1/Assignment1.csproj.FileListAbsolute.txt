@@ -1,0 +1,11 @@
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.exe
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.deps.json
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.json
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.runtimeconfig.dev.json
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.dll
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\Assignment1.pdb
+E:\TEst\Flowace assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.csprojAssemblyReference.cache
+E:\TEst\Flowace assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfoInputs.cache
+E:\TEst\Flowace assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.AssemblyInfo.cs
+E:\TEst\Flowace assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.dll
+E:\TEst\Flowace assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\Assignment1.pdb

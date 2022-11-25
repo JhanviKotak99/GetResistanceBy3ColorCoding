@@ -1,0 +1,11 @@
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\GetResistance.exe
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\GetResistance.deps.json
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\GetResistance.runtimeconfig.json
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\GetResistance.runtimeconfig.dev.json
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\GetResistance.dll
+E:\TEst\Flowace assignment\Assignment1\Assignment1\bin\Debug\netcoreapp3.1\GetResistance.pdb
+E:\TEst\Flowace assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\GetResistance.csprojAssemblyReference.cache
+E:\TEst\Flowace assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\GetResistance.AssemblyInfoInputs.cache
+E:\TEst\Flowace assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\GetResistance.AssemblyInfo.cs
+E:\TEst\Flowace assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\GetResistance.dll
+E:\TEst\Flowace assignment\Assignment1\Assignment1\obj\Debug\netcoreapp3.1\GetResistance.pdb

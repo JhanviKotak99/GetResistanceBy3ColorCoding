@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetResistance", "Assignment1\GetResistance.csproj", "{C4F29AD2-CA30-4652-A479-F76BB18953FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4F29AD2-CA30-4652-A479-F76BB18953FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F29AD2-CA30-4652-A479-F76BB18953FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F29AD2-CA30-4652-A479-F76BB18953FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F29AD2-CA30-4652-A479-F76BB18953FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32F330C7-A319-4391-938E-DD03B1DB626D}
+	EndGlobalSection
+EndGlobal
